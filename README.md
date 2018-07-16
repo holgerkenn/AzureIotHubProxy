@@ -1,5 +1,7 @@
 # AzureIotHubProxy
 
+** This approach is deprecated, either use Azure IoT DPS https://docs.microsoft.com/en-us/azure/iot-dps/ or the successor project https://github.com/holgerkenn/qdrs **
+
 This is example code to show how to manage an Azure IoT hub from an ASP.Net website. 
 
 More infos soon on http://blogs.msdn.com/b/holgerkenn/
